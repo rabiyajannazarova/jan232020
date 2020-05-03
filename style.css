@@ -183,3 +183,19 @@ input, textarea {
 .sectio{
  
 }
+#but{
+font-size: 50px;
+margin: 10px;
+padding: 10px;
+padding-left: 20px;
+padding-right: 20px;
+border: solid;
+border-color: #00EBE7;
+background-color: transparent;
+border-radius: 10px; 
+font-family: Handlee;
+font-weight: bold;
+border-top-color: red;
+border-bottom-color: red;
+
+}
